@@ -3,8 +3,10 @@ The Service for NuvoSpotifySync
 
 0. Make a copy of the C:\ProgramData\Autonomic Controls\Data folder and save it somewhere as backup.
 
-1. Download the latest version of SpotifySync Installer from Github: Releases · OneBobone/NuvoSpotifySync-Service
-2. Launch the Installer. Allow to make a shortcut.
+1. If you have not already, Login in to Spotify.com from your default browser (Chrome or Edge) with your Spotify UserName. If asked to remember the credentials, allow the browser to do so.
+
+2. Download the latest version of SpotifySync Installer from Github: Releases · OneBobone/NuvoSpotifySync-Service
+   Launch the Installer. Allow to make a shortcut.
 
 3. Run SpotifySync.exe as Administrator with the shortcut (and UpdateTable as default) to control that it works nicely.
 4. Close it.
