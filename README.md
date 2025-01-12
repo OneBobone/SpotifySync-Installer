@@ -11,7 +11,7 @@
 5. Run SpotifySyncService.exe as Administrator with the shortcut.
 6. Move the new window to the right of your screen.
 
-From now on, be REALLY careful and dom't rush
+From now on, be REALLY careful and don't rush
 
 7. Select the Favorites tab
 8. Select "Sync Spotify Playlists"
