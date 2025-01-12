@@ -8,10 +8,7 @@
 2. Download the latest version of SpotifySync Installer from Github: Releases · OneBobone/SpotifySync-Installer
    Launch the Installer. Allow to make a shortcut.
 
-3. Run SpotifySync.exe as Administrator with the shortcut (and UpdateTable as default) to control that it works nicely.
-4. Close it.
-
-5. Run NuvoSpotifySync.exe as Administrator with the shortcut.
+5. Run SpotifySyncService.exe as Administrator with the shortcut.
 6. Move the new window to the right of your screen.
 
 From now on, be REALLY careful and dom't rush
