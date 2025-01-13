@@ -1,4 +1,4 @@
-#SpotifySyncService
+#Spotify SyncServer
 - Support for Nuvo/Mirage app to sync playlists
 - Support for own web application including Sync Scheduler
 
