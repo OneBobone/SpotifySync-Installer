@@ -13,4 +13,4 @@
 
 4. Try!
 - Try the Nuvo or Mirage apps and 
-- Try music-port:9000
+- Try http://music-port:9000
