@@ -1,6 +1,7 @@
 #Spotify SyncServer
 - Support for Nuvo/Mirage app to sync playlists
-- Support for own web application including Sync Scheduler
+- Support for own Selector witin the app
+- Support for own Web application including Sync Scheduler
 
 0. Make a copy of the C:\ProgramData\Autonomic Controls\Data folder and save it somewhere as backup.
 
@@ -12,5 +13,6 @@
 3. Run SpotifySyncServer.exe as Administrator with the shortcut.
 
 4. Try!
-- Try the Nuvo or Mirage apps and 
-- Try http://music-port:9000
+- Try http://music-port/SpotifySync (Windows) or http://music-port.local/SpotifySync (Mac)
+- Try the Nuvo or Mirage apps  
+
