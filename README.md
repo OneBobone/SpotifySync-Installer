@@ -1,6 +1,6 @@
 #Spotify SyncServer
 - Support for Nuvo/Mirage app to sync playlists
-- Support for own Selector witin the app
+- Support for own music player/selector witin the app
 - Support for own Web application including Sync Scheduler
 
 0. Make a copy of the C:\ProgramData\Autonomic Controls\Data folder and save it somewhere as backup.
